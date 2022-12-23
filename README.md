@@ -1,2 +1,2 @@
-# PythonMCQ
-Script developed for fun and learning
+# Python Multi Question Quiz
+Script developed for fun and learning.
