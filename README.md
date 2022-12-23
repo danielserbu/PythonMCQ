@@ -1,2 +1,2 @@
-# Python Multi Question Quiz
+# Python Multi Choice Quiz
 Script developed for fun and learning.
