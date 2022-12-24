@@ -96,6 +96,24 @@ questions = [
         "explanation": "x"
     },
     {
+        "question": "Which attack can execute scripts in the user's browser and is capable of hijacking user sessions, defacing websites or redirecting the user to malicious sites?",
+        "choices": ["SQL Injection","Cross Site Scripting","Malware Uploading","Man in the Middle"],
+        "correct": "2",
+        "explanation": "x"
+    },
+    {
+        "question": "How to prevent CSRF attacks?",
+        "choices": ["Prepare statement","Sanitization","Tokens","Referer"],
+        "correct": "3",
+        "explanation": "https://cheatsheetseries.owasp.org/cheatsheets/Cross-Site_Request_Forgery_Prevention_Cheat_Sheet.html"
+    },
+    {
+        "question": "SameSite cookies were used to prevent .....",
+        "choices": ["SQL Injection","Path Traversal","XSS","CSRF"],
+        "correct": "4",
+        "explanation": "https://owasp.org/www-community/SameSite and https://www.geeksforgeeks.org/what-is-samesite-cookies-and-csrf-protection/"
+    },
+    {
         "question": "",
         "choices": ["x","y","w","z"],
         "correct": "x",
